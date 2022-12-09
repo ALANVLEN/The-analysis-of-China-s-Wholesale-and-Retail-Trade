@@ -1,0 +1,2 @@
+# The-analysis-of-China-s-Wholesale-and-Retail-Trade
+This research aims to predict China’s Wholesale and Retail trade data. Based on the data from China Statistic Yearbook 2020 and the National Bureau of statistic, I implemented a mathematical model to predict the retail sales of China’s economy and compared the accuracy of three machine learning models, linear regression and classification, regression tree (CART) and multi-layer perceptron neural network (MLP). As a result, DT-CART has the highest accuracy.
